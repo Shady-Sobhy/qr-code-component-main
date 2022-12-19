@@ -8,7 +8,9 @@
 
 body {
   font-family: "Outfit", sans-serif;
-  background-color: rgb(193, 226, 247);
+  /* background-color: rgb(193, 226, 247);
+   */
+  background-color: black;
 }
 .container {
   display: flex;
